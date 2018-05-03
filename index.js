@@ -1,6 +1,6 @@
 
-functuon scooter(year, color, model) {
+functuon cooter(year, color, model) {
   this.year = year
-  this.color = color 
+  this.color = color
   this.model = model
 }
